@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+    background-color: #0a014a;
+    color:#e3e3e3;
+}
+#results{
+    display:none;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
